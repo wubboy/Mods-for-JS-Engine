@@ -1,3 +1,0 @@
-just forces the camera to target either bf/dad
-
-Value 1: 0/dad/opponent targets dad, 1/bf/boyfriend targets bf
